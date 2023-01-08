@@ -5,7 +5,11 @@
 As a data analyst, I have a strong foundation in data management and analysis. My expertise lies in identifying trends and patterns in large and complex data sets and using that knowledge to drive business success. I am skilled in a variety of data analysis tools, and techniques, including data visualization, statistical analysis, data mining, and creative dashboards. I am passionate about turning data into insights and solutions, and I am always seeking new ways to drive data-driven decision making.
 
 # Toolkit: 
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png' alt='Power BI' height='50'>   <img src='https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png' alt='SQL' height='50'>  <img src='https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png' alt='Tableau' height='50'> <img src='https://d2vutrdw2j46fm.cloudfront.net/5e95d22e5aa8bf3a953eb9ae/public/5f6363b111fc7e2678545978.png' alt='Alteryx' height='50'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' alt='Python' height='50'>
+* Power BI
+* SQL
+* Tableau
+* Alteryx
+* Python 
 
 
 # 💫 About Me:
