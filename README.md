@@ -8,7 +8,6 @@ Skills: Power BI / Tableau / SQL / Alteryx / Python
 
 # 💫 About Me:
 👋 Hi, I’m @vinitsangoi<br>👀 I’m interested in Data analytics & visualization<br>🌱 I’m currently working at PwC India<br>💞️ I’m looking to collaborate on data analysis projects<br>📫 How to reach me vinitwork1906@gmail.com
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinit-sangoi/) 
