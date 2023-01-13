@@ -23,7 +23,7 @@ As a data analyst, I have a strong foundation in data management and analysis. M
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vinit-sangoi//)   [<img src='https://sjc6.discourse-cdn.com/standard17/user_avatar/forum.novypro.com/novypro.support.team/240/10_2.png' alt='novyPro' height='40'>](https://www.novypro.com/profile_projects/vinit-sangoi) 
 
 # 📊 GitHub Stats:
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vinitsangoi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinitsangoi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
 
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinitsangoi&theme=tokyonight&hide_border=false" />
 
