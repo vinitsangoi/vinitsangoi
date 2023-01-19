@@ -25,7 +25,7 @@ As a data analyst, I have a strong foundation in data management and analysis. M
 # 📊 GitHub Stats:
 <img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinitsangoi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
 
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinitsangoi&theme=tokyonight&hide_border=false" />
+<img align="left" width="47%" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=vinitsangoi&theme=tokyonight&hide_border=false" />
 
 
 
