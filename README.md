@@ -20,7 +20,8 @@ As a data analyst, I have a strong foundation in data management and analysis. M
 * Business analysis 
 
 ## 🌐 Socials:
-[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vinit-sangoi//)   [<img src='https://seeklogo.com/images/L/linktree-logo-2812B50C57-seeklogo.com.png' alt='linktree' height='40'>](https://linktr.ee/vinitsangoi1906)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vinit-sangoi//)   [<img src='https://raw.githubusercontent.com/vinitsangoi/vinitsangoi/main/linktreelogo.webp' alt='linktree' height='40'>](https://linktr.ee/vinitsangoi1906)
+
 # 📊 GitHub Stats:
 <img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinitsangoi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
 
